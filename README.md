@@ -2,12 +2,13 @@
 
 THE ROLE OF BACTERIOPHAGE IN STRUCTURING MICROBIAL COMMUNITIES IN WASTEWATER TREATMENT SYSTEMS
 
-Muhammad Hafiz Bin Ismail
+by Muhammad Hafiz Bin Ismail
+
 
 For thesis submitted to the Nanyang Technological University in partial fulfilment of the requirement for the degree of Doctor of Philosophy
 
 
-This Github serves as location to store very long tables of PhD thesis.
+This Github serves as location to store very long tables and other figures of my PhD thesis.
 
 Appendix Table 3. Pf4 RepC binding regions detected by Virtual Footprint
 
